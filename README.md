@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi there 👋, The name's BluePoint
+I am an aspiring developer learning how to become a full stack developer! 
+- 🔭 I’m currently working on Green Production Studios & Ogre Online
+- 🌱 I’m currently learning HTML
+- 🤔 I’m looking for help with Ogre Online
+- 📫 How to reach me: Discord: bluepoint.
 
 <!--
 **VibrantBluePoint/VibrantBluePoint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
